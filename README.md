@@ -18,3 +18,9 @@ npm i -g @nestjs/cli
 ```
 docker-compose up -d
 ```
+5. Crear archivo .env, usando el archivo ejemplo .env.template 
+
+6. Ejecutar en dev con:
+```
+npm run start:dev
+```
